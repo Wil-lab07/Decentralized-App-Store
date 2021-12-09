@@ -431,5 +431,5 @@ Dari perancangan ini dapat disimpulkan bahwa, pengembangan dApps serta proses pe
 ### Saran
 
 Pada dApps ini, terdapat banyak hal yang bisa dikembangkan lebih lanjut lagi yaitu:
-- Menerapkan CRUD pada smart contract dan Admin Site.
+- Menerapkan CRUD pada smart contract dan Admin Site karena data data yang ditampilkan pada dApps tersebut masih diinput melalui remix (https://remix.ethereum.org/).
 - Mendeploy smart contract ke jaringan berbasis EVM yang lebih scalable seperti Binance, Avalance, ataupun Polygon.
