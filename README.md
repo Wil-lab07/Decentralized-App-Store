@@ -20,6 +20,9 @@ Aplikasi ini juga telah menerapkan 4 fitur utama yaitu:
 ![image](https://user-images.githubusercontent.com/79161142/145343325-e9fa3a0d-8212-45d6-8835-cad107422128.png)
 - Scalable: dApps ini mengimplementasikan blockchain berbasis EVM sehingga, walaupun smart contract saat ini masih terdeploy pada Ethereum testnet yaitu Rospten. EVM memampukan juga untuk mendeploy ke jaringan yang lebih scalable seperti Polygon, binance, ataupun Avalanche. Sehingga bisa dipastikan blockchain berbasis EVM ini scalable tergantung jaringan mana yang digunakan pada saat mendeploy smart contract.
 
+### Notes
+- Untuk mendapatkan private key dan public key admin pada dApps ini, terdapat pada file .env yang terupload pada github ini.
+
 ## Library and Tools
 
 ### Frontend and Styling
